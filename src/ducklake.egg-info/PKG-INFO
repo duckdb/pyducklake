@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ducklake
+Version: 0.1.1
+Summary: DuckLake package for Python
+Author-email: Mark Raasveldt <mark.raasveldt@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/duckdb/pyducklake
+Project-URL: Issues, https://github.com/duckdb/pyducklake/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# pyducklake
+Python Package for ducklake

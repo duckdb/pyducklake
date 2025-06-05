@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/ducklake/__init__.py
+src/ducklake/example.py
+src/ducklake.egg-info/PKG-INFO
+src/ducklake.egg-info/SOURCES.txt
+src/ducklake.egg-info/dependency_links.txt
+src/ducklake.egg-info/top_level.txt
